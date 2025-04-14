@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite --open",
-    "build": "vite build --base=/team-project-group-11/",
+    "build": "vite build --base=/js_114_ulia012008/",
     "preview": "vite preview"
   },
   "devDependencies": {
